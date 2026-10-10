@@ -86,7 +86,7 @@ During these three years of my degree, I have learned various programming langua
 
  <p align="center">
       <br/>
-     <a href="https://www.linkedin.com/in/kendall-chinchilla-49b035174/" target="blank">
+     <a href="https://www.linkedin.com/in/kendall-chinchilla-araya-49b035174/" target="blank">
   <img align="center"
        src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
        alt="kendall-chinchilla" height="30"/>

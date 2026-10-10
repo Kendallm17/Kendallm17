@@ -8,7 +8,7 @@
  </br>
 <p align="center">
 <samp>
-My name is Kendall Chinchilla, I am 20 years old and I am from Costa Rica.
+My name is Kendall Chinchilla, I am 21 years old and I am from Costa Rica.
 I am a Systems Engineering student at the National University of Costa Rica, and I am currently in my third year.
 </br>
 </samp>
